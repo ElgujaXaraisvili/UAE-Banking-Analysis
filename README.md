@@ -1,4 +1,4 @@
-# UAE-Banking-System-Analysis-
+# UAE-Banking-Analysis
 
 
 The project was build on demand by a UAE based client who were an IT consultant was responsible for Banking Insights. It was 1.16 Million of Dataset in 2 different spread sheets which were combined and then joined with another excel file having different columns using Primary Key and Reference Key. 
